@@ -1,0 +1,126 @@
+/* ==========================================================
+   English translations.
+   The Arabic text lives directly in index.html (so the page works
+   without JavaScript and is the single source for Arabic).
+   Each key below matches a data-i18n="key" attribute in index.html.
+   ========================================================== */
+window.NOVA_EN = {
+  meta_title: "NOVA AI Agency | Websites & Digital Menus",
+  meta_desc: "A digital agency designing and building professional websites and digital menus for restaurants and cafés. Design. Build. Run.",
+
+  skip: "Skip to content",
+  nav_aria: "Main navigation",
+  ft_nav_aria: "Footer links",
+  menu_aria: "Menu",
+  nav_services: "Services",
+  nav_work: "Work",
+  nav_about: "About",
+  nav_process: "Process",
+  nav_contact: "Contact",
+  cta_start: "Start a project",
+
+  hero_eyebrow: "Digital agency · Websites & digital menus",
+  hero_l1: "Design.",
+  hero_l2: "Build.",
+  hero_l3: "Run.",
+  hero_sub: "We design professional websites and digital menus for restaurants and cafés: clean design, fast loading, and smooth on every device.",
+  hero_cta2: "See our services",
+  stat1_t: "Services available now",
+  stat2_t: "Services coming soon",
+  scroll: "Scroll",
+
+  svc_h: "Services",
+  svc_intro: "We start with two services we focus on and deliver with care.",
+  s1_t: "Website design & development",
+  s1_d: "Fully responsive business websites, fast to load, with a clear identity that reflects your business.",
+  s1_li1: "Design that works on phone and desktop",
+  s1_li2: "Clear structure and easy navigation",
+  s1_li3: "Fast performance and SEO basics",
+  s1_li4: "Arabic and English support",
+  s1_cta: "Request your website",
+  s2_t: "Digital menus for restaurants & cafés",
+  s2_d: "An elegant digital menu opened by scanning a QR code: easy to update and clear on mobile.",
+  s2_li1: "Print-ready QR code",
+  s2_li2: "Organized categories, items and prices",
+  s2_li3: "A design that fits your venue's identity",
+  s2_li4: "Fast opening on mobile",
+  s2_cta: "Request a menu",
+  soon_h: "Coming soon",
+  soon_note: "Services we plan to launch later. Not available yet.",
+  c1: "SaaS platforms with monthly subscriptions",
+  c2: "AI assistants",
+  c3: "Business automation and integrations",
+  tag_soon: "Soon",
+
+  wk_h: "Selected work",
+  wk_intro: "We are building our portfolio now. What you see here are design concepts that show our approach — not client projects. Real client work is added once delivered.",
+  w_tag: "Design concept",
+  w1_t: "Café digital menu",
+  w1_d: "A mobile menu layout: categories, items and simple navigation.",
+  w2_t: "Business website",
+  w2_d: "A homepage layout: hero, services and contact.",
+  w3_t: "Space for the first client project",
+  w3_d: "A real project will appear here once delivered.",
+
+  ab_h: "About",
+  ab_lead: "An emerging digital agency helping restaurants, cafés and small businesses show up professionally online.",
+  ab_p: "We start with website and digital menu design, then expand gradually into SaaS platforms, AI and business automation.",
+  v1_t: "Simplicity",
+  v1_d: "Clean design without clutter that gets the idea across quickly.",
+  v2_t: "Clarity",
+  v2_d: "We explain what we do and deliver what we agree on.",
+  v3_t: "Quality",
+  v3_d: "We test every page and button before delivery.",
+
+  pr_h: "How we work",
+  pr_intro: "Four clear steps from idea to launch.",
+  p1_t: "We align",
+  p1_d: "We understand your business and goals and define the scope.",
+  p2_t: "We design",
+  p2_d: "We share an initial design for you to review and refine.",
+  p3_t: "We build",
+  p3_d: "We turn the design into a website or menu that works on every device.",
+  p4_t: "We deliver & run",
+  p4_d: "We test everything, publish it and hand it over ready to use.",
+
+  ct_h: "Contact",
+  ct_intro: "Tell us about your project and we will get back to you.",
+  ct_pending_t: "Contact channels are being set up",
+  ct_pending_d: "We will announce how to reach us here soon.",
+  f_name: "Name",
+  f_service: "Service",
+  opt_web: "Website design & development",
+  opt_menu: "Digital menu",
+  opt_other: "Other / question",
+  f_msg: "Your message",
+  f_send: "Send",
+
+  ft_tag: "Design. Build. Run.",
+  ft_rights: "© 2026 NOVA AI Agency. All rights reserved.",
+
+  /* used by JavaScript only */
+  ch_wa: "WhatsApp",
+  ch_mail: "Email",
+  ch_ig: "Instagram",
+  note_wa: "WhatsApp will open with a ready message.",
+  note_mail: "Your email app will open with a ready message.",
+  note_fill: "Please fill in your name and message.",
+  msg_hello: "Hello NOVA, I'm {name}.",
+  msg_service: "Service: {service}",
+  mail_subject: "New request from the website",
+  lang_aria: "التبديل إلى العربية"
+};
+
+/* Arabic strings used by JavaScript only (not present as page text). */
+window.NOVA_AR_EXTRA = {
+  ch_wa: "واتساب",
+  ch_mail: "البريد الإلكتروني",
+  ch_ig: "إنستغرام",
+  note_wa: "سيفتح واتساب برسالة جاهزة.",
+  note_mail: "سيفتح بريدك برسالة جاهزة.",
+  note_fill: "يرجى كتابة اسمك ورسالتك.",
+  msg_hello: "مرحباً NOVA، أنا {name}.",
+  msg_service: "الخدمة المطلوبة: {service}",
+  mail_subject: "طلب جديد من الموقع",
+  lang_aria: "Switch language to English"
+};
